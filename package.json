@@ -1,6 +1,6 @@
 {
   "name": "oneload",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "base64 file upload middleware for express",
   "main": "index.js",
   "bin": "index.js",
