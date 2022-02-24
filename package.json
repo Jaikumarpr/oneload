@@ -25,7 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jaikumarpr/oneload.git"
+    "url": "https://github.com/Jaikumarpr/oneload.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jaikumarpr/oneload/issues"
   },
   "homepage": "https://github.com/Jaikumarpr/oneload/blob/main/README.md"
 }
