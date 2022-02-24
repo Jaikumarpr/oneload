@@ -1,14 +1,18 @@
 {
   "name": "oneload",
   "version": "1.0.0",
-  "description": "",
+  "description": "base64 file upload middleware for express",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "base64",
+    "upload"
+  ],
+  "author": "Jaikumar Pettikkattil",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^17.0.19"
   },
@@ -18,5 +22,10 @@
   },
   "engines": {
     "node": ">=11.14.0 "
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaikumarpr/oneload.git"
+  },
+  "homepage": "https://github.com/Jaikumarpr/oneload/blob/main/README.md"
 }
